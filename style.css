@@ -1,0 +1,14 @@
+body {
+  width: 600px;
+  margin: 0 auto;
+  font-family: "Courier New", Courier, monospace;
+}
+
+#checkmarkImg {
+  width: 25px;
+  margin-left: 2px;
+}
+
+hr {
+  margin: 25px;
+}
